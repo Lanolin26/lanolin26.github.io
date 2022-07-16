@@ -4,6 +4,9 @@ title: "Адресация в сетях TCP/IP: локальные, сетев�
 categories: pors-questions
 ---
 
+[comment]: <> (http://koi.tspu.ru/koi_books/gazizov2/7_Adresaciya_v_cetyah_TCP_IP.htm)
+[comment]: <> (https://www.opennet.ru/docs/RUS/ip_network/glava_3.html)
+
 ## Типы адресов: физический (MAC-адрес), сетевой (IP-адрес) и символьный (DNS-имя)
 
 Каждый компьютер в сети TCP/IP имеет адреса трех уровней:
