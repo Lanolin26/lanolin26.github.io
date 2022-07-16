@@ -2,6 +2,7 @@
 layout: post
 title: "Адресация в сетях TCP/IP: локальные, сетевые и доменные адреса, классы IP-адресов, маскирование IP-адресов"
 categories: pors-questions
+author: Kiselev Artem (Lanolin26)
 ---
 
 [comment]: <> (http://koi.tspu.ru/koi_books/gazizov2/7_Adresaciya_v_cetyah_TCP_IP.htm)
