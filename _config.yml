@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Кулинарные рецепты
+title: Main page Lanolin26
 email: lanolin652@gmail.com
 description: >-
-  Описание рецептов для готовки
-baseurl: "/cooking-recipes"
+  Описание разных страниц и записок
+baseurl: "/"
 url: "https://lanolin26.github.io"
 domain: lanolin26.github.io
 
